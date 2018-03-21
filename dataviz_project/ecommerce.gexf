@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-02-27">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="fatturato" title="fatturato" type="double"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Australia" label="Australia">
+        <attvalues>
+          <attvalue for="fatturato" value="137077.27"></attvalue>
+        </attvalues>
+        <viz:size value="24.00192"></viz:size>
+        <viz:position x="-326.25708" y="1013.94556"></viz:position>
+        <viz:color r="76" g="172" b="70"></viz:color>
+      </node>
+      <node id="Austria" label="Austria">
+        <attvalues>
+          <attvalue for="fatturato" value="10154.32"></attvalue>
+        </attvalues>
+        <viz:size value="10.24352"></viz:size>
+        <viz:position x="2005.2135" y="1397.0527"></viz:position>
+        <viz:color r="141" g="249" b="103"></viz:color>
+      </node>
+      <node id="Belgium" label="Belgium">
+        <attvalues>
+          <attvalue for="fatturato" value="40910.96"></attvalue>
+        </attvalues>
+        <viz:size value="13.577528"></viz:size>
+        <viz:position x="-1569.1742" y="-672.305"></viz:position>
+        <viz:color r="125" g="230" b="95"></viz:color>
+      </node>
+      <node id="Channel Islands" label="Channel Islands">
+        <attvalues>
+          <attvalue for="fatturato" value="20086.29"></attvalue>
+        </attvalues>
+        <viz:size value="11.320142"></viz:size>
+        <viz:position x="-193.56244" y="-1423.7772"></viz:position>
+        <viz:color r="136" g="243" b="100"></viz:color>
+      </node>
+      <node id="Denmark" label="Denmark">
+        <attvalues>
+          <attvalue for="fatturato" value="18768.14"></attvalue>
+        </attvalues>
+        <viz:size value="11.177255"></viz:size>
+        <viz:position x="-2265.1565" y="-1256.7217"></viz:position>
+        <viz:color r="137" g="244" b="101"></viz:color>
+      </node>
+      <node id="EIRE" label="EIRE">
+        <attvalues>
+          <attvalue for="fatturato" value="263276.82"></attvalue>
+        </attvalues>
+        <viz:size value="37.681904"></viz:size>
+        <viz:position x="-865.8333" y="191.16017"></viz:position>
+        <viz:color r="11" g="95" b="38"></viz:color>
+      </node>
+      <node id="Finland" label="Finland">
+        <attvalues>
+          <attvalue for="fatturato" value="22326.74"></attvalue>
+        </attvalues>
+        <viz:size value="11.563005"></viz:size>
+        <viz:position x="2006.7605" y="128.16794"></viz:position>
+        <viz:color r="135" g="242" b="100"></viz:color>
+      </node>
+      <node id="France" label="France">
+        <attvalues>
+          <attvalue for="fatturato" value="197403.9"></attvalue>
+        </attvalues>
+        <viz:size value="30.541304"></viz:size>
+        <viz:position x="13.246234" y="-707.4732"></viz:position>
+        <viz:color r="45" g="135" b="55"></viz:color>
+      </node>
+      <node id="Germany" label="Germany">
+        <attvalues>
+          <attvalue for="fatturato" value="221698.21"></attvalue>
+        </attvalues>
+        <viz:size value="33.174797"></viz:size>
+        <viz:position x="648.4737" y="129.20195"></viz:position>
+        <viz:color r="32" g="120" b="49"></viz:color>
+      </node>
+      <node id="Hong Kong" label="Hong Kong">
+        <attvalues>
+          <attvalue for="fatturato" value="10117.04"></attvalue>
+        </attvalues>
+        <viz:size value="10.239479"></viz:size>
+        <viz:position x="-1152.3203" y="-1336.1292"></viz:position>
+        <viz:color r="141" g="249" b="103"></viz:color>
+      </node>
+      <node id="Israel" label="Israel">
+        <attvalues>
+          <attvalue for="fatturato" value="7907.82"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1146.0184" y="1818.7096"></viz:position>
+        <viz:color r="143" g="251" b="104"></viz:color>
+      </node>
+      <node id="Italy" label="Italy">
+        <attvalues>
+          <attvalue for="fatturato" value="16890.51"></attvalue>
+        </attvalues>
+        <viz:size value="10.973721"></viz:size>
+        <viz:position x="1713.5743" y="-1046.3689"></viz:position>
+        <viz:color r="138" g="245" b="101"></viz:color>
+      </node>
+      <node id="Netherlands" label="Netherlands">
+        <attvalues>
+          <attvalue for="fatturato" value="284661.54"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="601.97504" y="1810.9758"></viz:position>
+        <viz:color r="0" g="82" b="33"></viz:color>
+      </node>
+      <node id="Norway" label="Norway">
+        <attvalues>
+          <attvalue for="fatturato" value="35163.46"></attvalue>
+        </attvalues>
+        <viz:size value="12.954501"></viz:size>
+        <viz:position x="-2393.3396" y="1317.7454"></viz:position>
+        <viz:color r="128" g="234" b="97"></viz:color>
+      </node>
+      <node id="Portugal" label="Portugal">
+        <attvalues>
+          <attvalue for="fatturato" value="29367.02"></attvalue>
+        </attvalues>
+        <viz:size value="12.326169"></viz:size>
+        <viz:position x="701.2744" y="-1228.2267"></viz:position>
+        <viz:color r="131" g="237" b="98"></viz:color>
+      </node>
+      <node id="Spain" label="Spain">
+        <attvalues>
+          <attvalue for="fatturato" value="54774.58"></attvalue>
+        </attvalues>
+        <viz:size value="15.080339"></viz:size>
+        <viz:position x="1303.6229" y="-586.3184"></viz:position>
+        <viz:color r="118" g="222" b="91"></viz:color>
+      </node>
+      <node id="Sweden" label="Sweden">
+        <attvalues>
+          <attvalue for="fatturato" value="36595.91"></attvalue>
+        </attvalues>
+        <viz:size value="13.109778"></viz:size>
+        <viz:position x="-2253.6785" y="202.5867"></viz:position>
+        <viz:color r="128" g="233" b="96"></viz:color>
+      </node>
+      <node id="Switzerland" label="Switzerland">
+        <attvalues>
+          <attvalue for="fatturato" value="56385.35"></attvalue>
+        </attvalues>
+        <viz:size value="15.254946"></viz:size>
+        <viz:position x="1227.1558" y="1030.7444"></viz:position>
+        <viz:color r="117" g="221" b="91"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="79" source="EIRE" target="France" weight="0.68">
+        <viz:color r="145" g="52" b="47"></viz:color>
+      </edge>
+      <edge id="80" source="EIRE" target="Germany" weight="0.68">
+        <viz:color r="145" g="52" b="47"></viz:color>
+      </edge>
+      <edge id="81" source="EIRE" target="Spain" weight="0.57">
+        <viz:color r="172" g="86" b="82"></viz:color>
+      </edge>
+      <edge id="82" source="EIRE" target="Switzerland" weight="0.47">
+        <viz:color r="197" g="117" b="114" a="0.99607843"></viz:color>
+      </edge>
+      <edge id="83" source="France" target="Germany" weight="0.83">
+        <viz:color r="109" g="5" b="0"></viz:color>
+      </edge>
+      <edge id="84" source="France" target="Spain" weight="0.63">
+        <viz:color r="157" g="67" b="63"></viz:color>
+      </edge>
+      <edge id="85" source="France" target="Switzerland" weight="0.66">
+        <viz:color r="150" g="58" b="54"></viz:color>
+      </edge>
+      <edge id="86" source="Germany" target="Spain" weight="0.63">
+        <viz:color r="157" g="67" b="63"></viz:color>
+      </edge>
+      <edge id="87" source="Germany" target="Switzerland" weight="0.66">
+        <viz:color r="150" g="58" b="54"></viz:color>
+      </edge>
+      <edge id="88" source="Spain" target="Switzerland" weight="0.51">
+        <viz:color r="187" g="105" b="102"></viz:color>
+      </edge>
+      <edge id="89" source="EIRE" target="Portugal" weight="0.46">
+        <viz:color r="199" g="121" b="118"></viz:color>
+      </edge>
+      <edge id="90" source="Portugal" target="Switzerland" weight="0.33">
+        <viz:color r="231" g="161" b="159" a="0.99607843"></viz:color>
+      </edge>
+      <edge id="91" source="EIRE" target="Norway" weight="0.39">
+        <viz:color r="216" g="143" b="140"></viz:color>
+      </edge>
+      <edge id="92" source="France" target="Norway" weight="0.39">
+        <viz:color r="216" g="143" b="140"></viz:color>
+      </edge>
+      <edge id="93" source="Germany" target="Norway" weight="0.4">
+        <viz:color r="214" g="139" b="137"></viz:color>
+      </edge>
+      <edge id="94" source="France" target="Portugal" weight="0.51">
+        <viz:color r="187" g="105" b="102"></viz:color>
+      </edge>
+      <edge id="95" source="Germany" target="Portugal" weight="0.47">
+        <viz:color r="197" g="117" b="114" a="0.99607843"></viz:color>
+      </edge>
+      <edge id="96" source="Norway" target="Spain" weight="0.27">
+        <viz:color r="246" g="180" b="178"></viz:color>
+      </edge>
+      <edge id="97" source="Portugal" target="Spain" weight="0.45">
+        <viz:color r="202" g="124" b="121"></viz:color>
+      </edge>
+      <edge id="98" source="Australia" target="EIRE" weight="0.37">
+        <viz:color r="221" g="149" b="146"></viz:color>
+      </edge>
+      <edge id="99" source="Australia" target="France" weight="0.52">
+        <viz:color r="184" g="102" b="98"></viz:color>
+      </edge>
+      <edge id="100" source="Australia" target="Germany" weight="0.46">
+        <viz:color r="199" g="121" b="118"></viz:color>
+      </edge>
+      <edge id="101" source="Australia" target="Netherlands" weight="0.4">
+        <viz:color r="214" g="139" b="137"></viz:color>
+      </edge>
+      <edge id="102" source="Denmark" target="France" weight="0.32">
+        <viz:color r="233" g="165" b="162"></viz:color>
+      </edge>
+      <edge id="103" source="Denmark" target="Germany" weight="0.28">
+        <viz:color r="243" g="177" b="175"></viz:color>
+      </edge>
+      <edge id="104" source="EIRE" target="Italy" weight="0.29">
+        <viz:color r="241" g="174" b="172"></viz:color>
+      </edge>
+      <edge id="105" source="EIRE" target="Netherlands" weight="0.45">
+        <viz:color r="202" g="124" b="121"></viz:color>
+      </edge>
+      <edge id="106" source="EIRE" target="Sweden" weight="0.25">
+        <viz:color r="251" g="187" b="185"></viz:color>
+      </edge>
+      <edge id="107" source="France" target="Italy" weight="0.4">
+        <viz:color r="214" g="139" b="137"></viz:color>
+      </edge>
+      <edge id="108" source="France" target="Netherlands" weight="0.65">
+        <viz:color r="153" g="61" b="57"></viz:color>
+      </edge>
+      <edge id="109" source="France" target="Sweden" weight="0.35">
+        <viz:color r="226" g="155" b="153" a="0.99607843"></viz:color>
+      </edge>
+      <edge id="110" source="Germany" target="Italy" weight="0.36">
+        <viz:color r="224" g="152" b="149"></viz:color>
+      </edge>
+      <edge id="111" source="Germany" target="Netherlands" weight="0.61">
+        <viz:color r="162" g="74" b="70"></viz:color>
+      </edge>
+      <edge id="112" source="Germany" target="Sweden" weight="0.31">
+        <viz:color r="236" g="168" b="165"></viz:color>
+      </edge>
+      <edge id="113" source="Italy" target="Netherlands" weight="0.28">
+        <viz:color r="243" g="177" b="175"></viz:color>
+      </edge>
+      <edge id="114" source="Netherlands" target="Norway" weight="0.25">
+        <viz:color r="251" g="187" b="185"></viz:color>
+      </edge>
+      <edge id="115" source="Netherlands" target="Sweden" weight="0.3">
+        <viz:color r="238" g="171" b="169"></viz:color>
+      </edge>
+      <edge id="116" source="Belgium" target="France" weight="0.69">
+        <viz:color r="143" g="48" b="44"></viz:color>
+      </edge>
+      <edge id="117" source="Belgium" target="Germany" weight="0.6">
+        <viz:color r="165" g="77" b="73"></viz:color>
+      </edge>
+      <edge id="118" source="Australia" target="Belgium" weight="0.37">
+        <viz:color r="221" g="149" b="146"></viz:color>
+      </edge>
+      <edge id="119" source="Australia" target="Switzerland" weight="0.35">
+        <viz:color r="226" g="155" b="153" a="0.99607843"></viz:color>
+      </edge>
+      <edge id="120" source="Austria" target="France" weight="0.31">
+        <viz:color r="236" g="168" b="165"></viz:color>
+      </edge>
+      <edge id="121" source="Austria" target="Germany" weight="0.32">
+        <viz:color r="233" g="165" b="162"></viz:color>
+      </edge>
+      <edge id="122" source="Austria" target="Switzerland" weight="0.28">
+        <viz:color r="243" g="177" b="175"></viz:color>
+      </edge>
+      <edge id="123" source="Belgium" target="EIRE" weight="0.41">
+        <viz:color r="211" g="136" b="133"></viz:color>
+      </edge>
+      <edge id="124" source="Belgium" target="Finland" weight="0.29">
+        <viz:color r="241" g="174" b="172"></viz:color>
+      </edge>
+      <edge id="125" source="Belgium" target="Norway" weight="0.28">
+        <viz:color r="243" g="177" b="175"></viz:color>
+      </edge>
+      <edge id="126" source="Belgium" target="Switzerland" weight="0.5">
+        <viz:color r="189" g="108" b="105"></viz:color>
+      </edge>
+      <edge id="127" source="EIRE" target="Finland" weight="0.26">
+        <viz:color r="248" g="183" b="181"></viz:color>
+      </edge>
+      <edge id="128" source="Finland" target="France" weight="0.35">
+        <viz:color r="226" g="155" b="153" a="0.99607843"></viz:color>
+      </edge>
+      <edge id="129" source="Finland" target="Germany" weight="0.36">
+        <viz:color r="224" g="152" b="149"></viz:color>
+      </edge>
+      <edge id="130" source="Finland" target="Switzerland" weight="0.27">
+        <viz:color r="246" g="180" b="178"></viz:color>
+      </edge>
+      <edge id="131" source="Norway" target="Switzerland" weight="0.29">
+        <viz:color r="241" g="174" b="172"></viz:color>
+      </edge>
+      <edge id="132" source="Austria" target="Spain" weight="0.26">
+        <viz:color r="248" g="183" b="181"></viz:color>
+      </edge>
+      <edge id="133" source="Finland" target="Spain" weight="0.29">
+        <viz:color r="241" g="174" b="172"></viz:color>
+      </edge>
+      <edge id="134" source="Italy" target="Spain" weight="0.3">
+        <viz:color r="238" g="171" b="169"></viz:color>
+      </edge>
+      <edge id="135" source="Germany" target="Israel" weight="0.26">
+        <viz:color r="248" g="183" b="181"></viz:color>
+      </edge>
+      <edge id="136" source="Belgium" target="Portugal" weight="0.4">
+        <viz:color r="214" g="139" b="137"></viz:color>
+      </edge>
+      <edge id="137" source="Belgium" target="Denmark" weight="0.25">
+        <viz:color r="251" g="187" b="185"></viz:color>
+      </edge>
+      <edge id="138" source="Australia" target="Spain" weight="0.37">
+        <viz:color r="221" g="149" b="146"></viz:color>
+      </edge>
+      <edge id="139" source="Belgium" target="Channel Islands" weight="0.25">
+        <viz:color r="251" g="187" b="185"></viz:color>
+      </edge>
+      <edge id="140" source="Belgium" target="Netherlands" weight="0.54">
+        <viz:color r="180" g="96" b="92"></viz:color>
+      </edge>
+      <edge id="141" source="Belgium" target="Spain" weight="0.48">
+        <viz:color r="194" g="114" b="111"></viz:color>
+      </edge>
+      <edge id="142" source="Channel Islands" target="EIRE" weight="0.36">
+        <viz:color r="224" g="152" b="149"></viz:color>
+      </edge>
+      <edge id="143" source="Channel Islands" target="France" weight="0.32">
+        <viz:color r="233" g="165" b="162"></viz:color>
+      </edge>
+      <edge id="144" source="Channel Islands" target="Germany" weight="0.28">
+        <viz:color r="243" g="177" b="175"></viz:color>
+      </edge>
+      <edge id="145" source="Channel Islands" target="Netherlands" weight="0.26">
+        <viz:color r="248" g="183" b="181"></viz:color>
+      </edge>
+      <edge id="146" source="Channel Islands" target="Spain" weight="0.3">
+        <viz:color r="238" g="171" b="169"></viz:color>
+      </edge>
+      <edge id="147" source="Finland" target="Netherlands" weight="0.27">
+        <viz:color r="246" g="180" b="178"></viz:color>
+      </edge>
+      <edge id="148" source="Israel" target="Netherlands" weight="0.26">
+        <viz:color r="248" g="183" b="181"></viz:color>
+      </edge>
+      <edge id="149" source="Netherlands" target="Portugal" weight="0.32">
+        <viz:color r="233" g="165" b="162"></viz:color>
+      </edge>
+      <edge id="150" source="Netherlands" target="Spain" weight="0.47">
+        <viz:color r="197" g="117" b="114" a="0.99607843"></viz:color>
+      </edge>
+      <edge id="151" source="Netherlands" target="Switzerland" weight="0.49">
+        <viz:color r="192" g="111" b="108"></viz:color>
+      </edge>
+      <edge id="152" source="France" target="Hong Kong" weight="0.26">
+        <viz:color r="248" g="183" b="181"></viz:color>
+      </edge>
+      <edge id="153" source="Austria" target="Netherlands" weight="0.27">
+        <viz:color r="246" g="180" b="178"></viz:color>
+      </edge>
+      <edge id="154" source="Belgium" target="Hong Kong" weight="0.25">
+        <viz:color r="251" g="187" b="185"></viz:color>
+      </edge>
+      <edge id="155" source="Belgium" target="Sweden" weight="0.33">
+        <viz:color r="231" g="161" b="159" a="0.99607843"></viz:color>
+      </edge>
+      <edge id="156" source="Spain" target="Sweden" weight="0.25">
+        <viz:color r="251" g="187" b="185"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

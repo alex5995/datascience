@@ -1,0 +1,262 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|PT+Serif:400,400i,700,700i|Source+Code+Pro|Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
+  <link rel="icon" href="../../favicon.ico">
+
+  <title>Data Viz Lab</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+  <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+  <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+    <!-- Intro con titolo e immagine. Inserire immagine in /media/ con il nome cover.png
+    Al posto dei segna posto aggiungere il vostro nome e matricola negli <span> -->
+      <div class="intro">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2 text">
+              <h5 class="text-center">UNIMIB - 2017/2018</h5>
+              <h1 class="text-center">Un approccio data-driven per migliorare il tuo e-commerce</h1>
+			  <h2 class="text-center">Studio svolto sui dati di un'azienda inglese</h2>
+              <h4 class="text-center">Un progetto di 
+                <span class="name">Alex Ceccotti (790497)</span>, 
+                <span class="name">Pietro De Simoni (790638)</span>, 
+                <span class="name">Francesca Galbiati (820641)</span>,  
+                <span class="name">Gianmarco Stucchi (778772)</span> e
+                <span class="name">Iris Terzitta (819802)</span></h5>
+              </div>
+          </div>
+          </div>
+      </div>
+
+
+
+      <!-- Primo blocco di testo -->
+      
+	  <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h5>Introduzione</h5>
+            <p>Le abitudini delle persone stanno cambiando. Con un solo click possiamo acquistare un prodotto o un servizio e avere ciò che desideriamo nell’arco di 24 ore. Si tratta di una pratica nata negli anni ‘90 ed in continua espansione: gli stessi negozi fisici si sono resi conto che il mercato online non è un rivale, ma invece una buona opportunità che può portare vantaggi e quindi aumentare i ricavi dati dalle vendite. A supporto delle decisioni finalizzate ad una crescita del mercato è necessario un approccio Data-Driven che permetta ai manager di sfruttare al meglio le informazioni a disposizione.
+				Da un dataset relativo all’e-commerce di un’azienda inglese abbiamo costruito due visualizzazioni che rappresentano in modi differenti la situazione del mercato online. Il nostro obiettivo è pertanto quello di mostrare le informazioni in modo più immediato e facilitarne la comprensione. Il dataset di riferimento prende in considerazione gli acquisti online di prodotti venduti da un’azienda inglese (non citata dalla fonte) nel periodo che va dal 1 dicembre 2010 al 9 dicembre 2011. Si tratta di un registro che conta 541 909 transazioni. Si osserva che ogni customer è associato al proprio ID, al suo paese di provenienza e al numero di prodotti acquistati. Il prodotto è invece associato al suo StockCode, al prezzo unitario espresso in sterline e alla data di emissione della fattura. 
+			</p>
+          </div>
+        </div>
+      </div>
+
+	<div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h5>Distribuzione del mercato online</h5>
+            <p>Per la prima infoviz abbiamo scelto di utilizzare un Packed Bubble Chart, in quanto abbiamo ritenuto fosse la modalità più opportuna per rappresentare la distribuzione del mercato online tra più paesi. La visualizzazione è suddivisa in due parti: nella prima viene mostrato il confronto tra il mercato nazionale inglese e quello di tutti gli altri paesi esteri, raggruppati in un’unica entità. Risulta chiara la differenza del numero di fatture (count of invoices) rappresentato dalla taglia (size) e dal fatturato (revenue) tra l’Inghilterra e gli altri stati. Ciò significa che l’azienda inglese vende, per la maggior parte, i suoi prodotti sul territorio nazionale; pertanto andrebbero migliorate le strategie di vendita relative al mercato estero, in modo da aumentarne le vendite. 
+				Osservando come i paesi esteri acquistino dall’azienda inglese una quantità di prodotti sensibilmente inferiore al Regno Unito, abbiamo creato la seconda parte dell’infoviz con lo scopo di mostrare il confronto e quindi la frammentazione solamente tra i paesi del mercato estero, per comprendere quali siano gli stati che acquistano più prodotti, e che quindi creano più fatturato, e quale sia il paese verso cui viene emesso il maggior numero di fatture per la vendita dei prodotti. Si può osservare come la Germania risulti il paese che emette più fatture, mentre l’Olanda (Netherlands) è quella che genera più fatturato. Essendo entrambi paesi europei, l’azienda inglese dovrebbe sfruttare questa informazione per attuare delle strategie che coinvolgano maggiormente gli altri paesi, come Giappone e Canada. Inoltre, molti dei paesi che si trovano geograficamente vicini all’Inghilterra, sono esclusi da quel gruppo di stati che si distinguono per numero di vendite.
+			</p>
+          </div>
+        </div>
+      </div>
+	  
+      <!-- Prima Visualizzazione -->
+      <div class="container viz">
+        <div class="row">
+          <div class='tableauPlaceholder' id='viz1520437557926' style='position: relative'><noscript><a href='#'><img alt='Online trade&#39;s distribution for an english company between different countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;tr&#47;trades&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='trades&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;tr&#47;trades&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1520437557926');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1140px';vizElement.style.height='727px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+		  </div>
+      </div>
+
+
+
+
+      <!-- Secondo blocco di testo -->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h5>Focus sul mercato estero</h5>
+            <p>Nell’ottica di comprendere meglio la struttura del mercato estero dell’azienda inglese, abbiamo rappresentato, attraverso un grafo, la connessione delle vendite nei paesi esteri, escludendo il mercato nazionale (Regno Unito). Come si può osservare, i nodi con dimensione maggiore e quindi i paesi che acquistano più prodotti sono Netherlands, EIRE, Germany, France e Australia. Prendendo come esempio uno dei nodi con fatturato minore come il Belgio, si osserva che esso ha un legame forte con Francia e Germania, rispettivamente di 0.69 e 0.60. Pertanto, volendo incrementare sul territorio belga le vendite online dei prodotti dell’azienda inglese in questione, si potrebbe mettere in atto una politica commerciale comune ai due paesi fortemente connessi.
+			</p>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Seconda Visualizzazione -->
+      <div class="container viz">
+        <div class="row">
+          <img src="grafo.png">
+		  <p><a href="graph.html">Link alla visualizzazione interattiva</a></p>
+        </div>
+      </div>
+
+
+
+
+      <!-- Quarto blocco di testo con le conlusioni-->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h5>Conclusioni</h5>
+            <p>La creazione di queste visualizzazioni potrebbe dare origine ad una nuova opportunità per i manager, che si ritroverebbero a poter utilizzare uno strumento che permetta loro di essere guidati verso una migliore interpretazione dei dati. In questo modo, tramite un approccio Data Driven, i dirigenti sarebbero in grado di mettere in atto delle strategie di marketing più efficaci volte ad aumentare le vendite nel mercato di riferimento, ovvero l’e-commerce. 
+				Il risultato è una guida informativa personalizzata per ogni singolo paese coinvolto.
+			</p>
+          </div>
+        </div>
+      </div>
+
+
+
+
+      <div class="howTo">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 col-md-offset-2">
+              
+              <!-- In questa parte descrivere il processo di raccolta, pulizia e visualizzazione dei dati. Che tipo di dati avevo? Che tipo di operazioni sono state effettuate per poter visualizzare i dati. Come si leggono le visualizzazioni?-->
+              <h5>Note Metodologiche</h5>
+              <p>Per effettuare la nostra analisi abbiamo utilizzato un dataset fornito da una società inglese tramite la piattaforma Kaggle. Inizialmente avevamo a disposizione 8 variabili: “InvoiceNo”, “StockCode”, “Description”, “Quantity”, “InvoiceDate”, “UnitPrice”, “CustomerID”, “Country”. Per effettuare la prima visualizzazione abbiamo tenuto conto delle variabili “InvoiceNo” (variabile nominale), “Country” (variabile nominale), “InvoiceDate” (variabile intervallare, utilizzata per un filtro) e abbiamo costruito la variabile “Revenue” (fatturato, variabile ratio) data dal prodotto di “UnitPrice” e “Quantity”. La visualizzazione ottenuta tramite il software Tableau (Packed Bubble Chart) è divisa in due parti, la prima confronta il mercato nazionale con quello estero (ognuno rappresentato da una tinta colore diversa), mentre la seconda rappresenta la distribuzione del mercato estero ed è stato utilizzato il colore blu con i suoi differenti livelli di intensità per indicare il fatturato. Inoltre, la grandezza delle bolle è proporzionale al numero di fatture emesse per entrambe le infoviz presenti nella dashboard (mercato inglese, estero e singoli paesi esteri). Abbiamo voluto creare un’infoviz interattiva: i dati, e quindi il numero di fatture e il fatturato, variano a seconda del mese (month of invoice) selezionato attraverso i filtri. In questo modo è possibile osservare l’andamento delle vendite durante il corso dell’anno 2011. Nel caso in cui ci sia un interesse verso un singolo paese, o ad un confronto specifico, è possibile filtrare anche per la variabile “Country” (stato) spuntando solamente i paesi oggetto di analisi. 
+Per la seconda infoviz è stato utilizzato il software Gephi. Abbiamo infatti creato un grafo composto da nodi ed archi. I nodi rappresentano i paesi esteri, mentre gli archi le connessioni basate sulla quantità dei prodotti acquistati congiuntamente. L’intensità di un arco è infatti ottenuta tramite la seguente formula: 
+<hr><img src="formula.png"><hr>
+<p>Tale intensità è rappresentata graficamente dalla scala colore del rosso; il fatturato di un paese è invece raffigurato sia tramite la grandezza del nodo sia con la scala cromatica del verde. Per costruire nodi ed archi sono stati utilizzati degli script <a href="make_nodes.r">R</a> e <a href="make_edges.ipynb">Python</a>.
+              <hr>
+
+              <!-- Seguire indicazioni prof Cabitza. Aggiungere immagini con taf img se necessario-->
+              <h5>Valutazione qualità</h5>
+              <p>Abbiamo deciso di valutare la qualità della nostra prima visualizzazione sottoponendo un <a href="questionario.pdf">questionario</a> a 38 persone in modo da cogliere aspetti critici dal punto di vista quantitativo e qualitativo. 
+              <hr>
+
+              <h5>Euristiche considerate</h5>
+              <p>Abbiamo creato le nostre infografiche in modo tale da rispettare le seguenti euristiche:<br>
+				<ul>
+				<li>Filter. Attraverso i filtri presenti sulla destra dell’infoviz l’utente ha la possibilità di scegliere il mese di emissione della fattura e i paesi a cui è interessato.</li>
+				<li>Details-on-demand. Selezionando un singolo paese con un click è possibile escludere gli altri e visualizzare i dati relativi allo stato selezionato. Inoltre, le stesse informazioni possono essere reperite mediante l'effetto hover del mouse.</li>
+				<li>History. Nel Packed Bubble Chart si possono effettuare diverse operazioni tramite i filtri presenti sulla destra. Tableau mette a disposizione un pulsante rappresentato da una freccia (che si trova in basso a destra) per poter tener traccia dei filtri utilizzati ed eventualmente tornare allo stato precedente della visualizzazione.</li>
+				</ul>
+              <hr>
+
+              <h5>Test Utente</h5>
+              <p>Per ottenere un feedback sull’efficienza della prima visualizzazione (Packed Bubble Chart) abbiamo chiesto a 38 persone di svolgere un task, registrando la correttezza delle risposte e il tempo impiegato. Abbiamo inoltre suddiviso il campione in due gruppi, in base alle risposte date alla domanda riguardante la familiarità con i dati. Le due categorie sono classificate in “inesperti” e “esperti”. Questo ci ha permesso di verificare se ci fossero differenze significative tra i due gruppi, e in particolare testare l’infoviz su utenti esperti come i manager ai quali essa è rivolta.<br>
+			  Per valutare la differenza dei tempi di risposta, abbiamo ritenuto opportuno l’utilizzo del Violin Plot, in quanto risulta essere il metodo più efficace. 
+Abbiamo diviso il campione in due gruppi in base alla loro familiarità con i dati. Essendo la scala utilizzata nel questionario da 1 a 6, il primo gruppo appartiene a chi si ritiene inesperto nell’utilizzo dei dati (risposte 1,2,3), mentre il secondo si riferisce a chi si ritiene esperto (risposte 4,5,6). 
+Dopodiché abbiamo calcolato il tempo impiegato da ogni soggetto per dare una risposta alla domanda aperta numero 3 del questionario; il tempo è stato inserito sull’asse delle ordinate e varia da 0 a 300 secondi.
+Ogni risposta errata è rappresentata da un puntino rosso, mentre ogni risposta corretta da un puntino blu. Al centro del grafico sono presenti le due medie dei tempi di risposta, con i rispettivi intervalli di confidenza. 
+				<hr><img src="viol_finito.png"><hr>
+				<p>È possibile notare che, in media, i tempi di risposta di chi si ritiene inesperto, sono maggiori rispetto a chi si ritiene esperto. Infatti, la media del tempo di esecuzione del task dei soggetti che si ritengono inesperti è di 142 secondi, mentre è di 100 secondi quella di chi si ritiene esperto. La differenza tra le due medie è dunque di 42 secondi ed effettuando un t-test su tale quantità, risulta che c’è una differenza significativa tra i tempi di esecuzione del task, t(36) = 2.49, p = 0.0087, per cui il gruppo degli esperti nel trattamento dei dati impiega un tempo significativamente minore rispetto al gruppo degli inesperti.
+Inoltre, si osserva che chi ha dichiarato di essere esperto nella gestione dei dati ha una percentuale più bassa di risposte errate: l’11% contro il 37% di risposte errate nel gruppo degli inesperti. Utilizzando il test di Fisher sulla tabella di contingenza contenente risposte giuste ed errate relative ai due gruppi, si ottiene un p-value pari a 0.0622. Di conseguenza, se consideriamo come soglia il 5%, non c’è una differenza significativa tra i due gruppi relativamente alla correttezza dell’esecuzione del task richiesto. 
+
+			  <hr>
+
+              <h5>Questionari psicometrici</h5>
+              <p>Per poter valutare la nostra prima visualizzazione abbiamo creato un questionario che ha permesso di ottenere dei giudizi in merito ad alcuni aspetti qualitativi. Abbiamo sottoposto tali domande ad un gruppo di 38 persone chiedendo loro di valutare l’infoviz attraverso una scala da 1 (Pochissimo) a 6 (Moltissimo) relativamente agli attributi qualitativi “Generale”, “Utilità”, “Intuitività”, “Chiarezza”, “Informatività” e “Bellezza”.<br>
+			  Come per la categoria della familiarità con i dati esposta nella sezione “test utente”, anche gli attributi qualitativi sono stati binarizzati. Essendo la scala da 1 a 6, abbiamo suddiviso i valori da 1 a 3 etichettando come “valutazione negativa”, mentre quelli da 4 a 6 come “valutazione positiva”. Così, tramite un bar chart, abbiamo rappresentato la percentuale di risposte negative attraverso il colore nero, e positive tramite l’azzurro. Vengono inoltre mostrati gli intervalli di confidenza per ogni attributo qualitativo indicato sull’asse y. 
+			  <hr><img src="chart.png"><hr>
+			  <p>Si può osservare come “Informatività” e “Bellezza” abbiano una percentuale maggiore di risposte positive, e quindi contribuiscano positivamente al giudizio “Generale”. Gli altri tre attributi hanno invece una minor percentuale di risposte positive, ma in ogni caso gli intervalli di confidenza al 95% non comprendono la percentuale del 50. Ciò significa che anche per questi attributi i giudizi hanno una polarizzazione positiva statisticamente significativa.
+			  <hr>
+			  <p>Per valutare la correlazione tra gli attributi qualitativi presenti nel questionario abbiamo ritenuto opportuno l’utilizzo di un correlogramma.
+Si tratta di una “matrice” in cui vengono rappresentate le correlazioni tra gli attributi in base alle risposte.
+
+			  <hr><img src="corplot.png"><hr>
+			  <p>Nel triangolo superiore sono presenti dei corrplot, che si differenziano tra loro per forma e colore. Questi ultimi indicano la forza della correlazione, che varia da -1 a 1.
+Più la forma è simile ad una retta, maggiore è la correlazione, che a seconda dell’inclinazione verso l’alto o il basso può essere rispettivamente positiva o negativa.
+Più la forma è simile ad un cerchio, più tale attributo si avvicina allo 0.
+Il blu corrisponde a valori positivi mentre il rosso a quelli negativi.
+Si può notare che solo le coppie (“Intuitiva”, “Bella”) e (“Informativa”, “Bella”) hanno una correlazione negativa (rispettivamente -0.17 e -0.08).
+Nel triangolo inferiore sono invece rappresentate i valori delle correlazioni e i rispettivi p-value.
+Ogni p-value testa l’ipotesi nulla h0 = assenza di correlazione tra i due attributi. Possiamo dunque considerare significative solo le correlazioni con p-value < 0.05, ovvero quelle che ci permettono di rifiutare tale ipotesi nulla.
+
+			  <hr>
+
+
+
+              </div>
+
+			  
+
+
+
+
+            <!-- Inserire i link di google spreadsheet/drive o i link ai file dentro la cartella data (ridotti possibilmente - max 5mb) al posto di # e dare un nome ai dataset.-->
+            <div class="col-md-3 col-md-offset-1 howToSide">
+            <h5>Dati utilizzati</h5>
+            <p><a href="https://www.kaggle.com/carrie1/ecommerce-data">Dataset e-commerce (kaggle)</a></p>
+            <p><a href="nodi.csv">Nodi</a></p>
+			<p><a href="edges.csv">Archi</a></p>
+
+            <!-- Inserire i link agli strumenti utilizzati per la gestione dei dati e per la visualizzazione-->
+            <h5 id="tools">Strumenti utilizzati</h5>
+            <p><a href="https://www.tableau.com/">Tableau</a></p>
+            <p><a href="https://gephi.org/">Gephi</a></p>
+			<p><a href="https://cran.r-project.org/">R</a></p>
+			<p><a href="https://www.python.org/">Python</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <!-- /#page-content-wrapper -->
+
+
+
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+  <script src="js/bootstrap.min.js"></script>
+  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <script src="js/ie10-viewport-bug-workaround.js"></script>
+  <script>$(document).ready(function () {
+    var trigger = $('.hamburger'),
+    overlay = $('.overlay'),
+    isClosed = false;
+
+    trigger.click(function () {
+      hamburger_cross();
+    });
+
+    function hamburger_cross() {
+
+      if (isClosed == true) {
+        overlay.hide();
+        trigger.removeClass('is-open');
+        trigger.addClass('is-closed');
+        isClosed = false;
+      } else {
+        overlay.show();
+        trigger.removeClass('is-closed');
+        trigger.addClass('is-open');
+        isClosed = true;
+      }
+    }
+
+    $('[data-toggle="offcanvas"]').click(function () {
+      $('#wrapper').toggleClass('toggled');
+    });
+  });
+  </script>
+
+</body>
+</html>
