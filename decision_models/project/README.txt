@@ -8,5 +8,3 @@ Da riga 172 a riga 229 è presente il cuore dello script, ovvero la parte in cui
 In particolare da riga 178 a riga 193 è impossibile settare i parametri relativi alla settimana e allo store per cui si vuole sviluppare l'albero decisionale
 
 Il codice è comunque commentato per agevolare la lettura
-
-Le immagini dei due alberi di regressione presenti nel report sono inserite nella cartella zip per poter essere visualizzate meglio
