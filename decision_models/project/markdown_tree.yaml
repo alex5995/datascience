@@ -1,0 +1,30 @@
+name: Markdown Tree
+variables:
+    sales: 10
+    ratio_less_47: 0.01
+    ratio_between: 0.03
+    ratio_more_50: 0.04
+    prob_t_47: 0.3
+    prob_t_between: 0.3
+    prob_t_50: 1-prob_t_47-prob_t_between
+    epsi: 0.5
+    aum: 0.25
+    size: 150000
+    payoff_t_47: (1-ratio_less_47)*sales*size
+    payoff_t_between: (1-ratio_between)*sales*size
+    payoff_t_50: (1-ratio_more_50)*sales*size
+    payoff_eps: (1-(epsi*aum))*sales*size
+type: decision
+apply_markdowns:
+    type: chance
+    t_47:
+        p: prob_t_47
+        payoff: payoff_t_47
+    t_between:
+        p: prob_t_between
+        payoff: payoff_t_between
+    t_50:
+        p: prob_t_50
+        payoff: payoff_t_50
+not_apply_markdowns:
+    payoff: payoff_eps
