@@ -1,0 +1,807 @@
+Pokémon,Egg Group 1,Egg Group 2
+Bulbasaur,Monster,Grass
+Ivysaur,Monster,Grass
+Venusaur,Monster,Grass
+Charmander,Monster,Dragon
+Charmeleon,Monster,Dragon
+Charizard,Monster,Dragon
+Squirtle,Monster,Water 1
+Wartortle,Monster,Water 1
+Blastoise,Monster,Water 1
+Caterpie,Bug,
+Metapod,Bug,
+Butterfree,Bug,
+Weedle,Bug,
+Kakuna,Bug,
+Beedrill,Bug,
+Pidgey,Flying,
+Pidgeotto,Flying,
+Pidgeot,Flying,
+Rattata,Field,
+Raticate,Field,
+Spearow,Flying,
+Fearow,Flying,
+Ekans,Field,Dragon
+Arbok,Field,Dragon
+Pikachu,Field,Fairy
+Raichu,Field,Fairy
+Sandshrew,Field,
+Sandslash,Field,
+Nidoran♀,Monster,Field
+Nidorina,Undiscovered,
+Nidoqueen,Undiscovered,
+Nidoran♂,Monster,Field
+Nidorino,Monster,Field
+Nidoking,Monster,Field
+Clefairy,Fairy,
+Clefable,Fairy,
+Vulpix,Field,
+Ninetales,Field,
+Jigglypuff,Fairy,
+Wigglytuff,Fairy,
+Zubat,Flying,
+Golbat,Flying,
+Oddish,Grass,
+Gloom,Grass,
+Vileplume,Grass,
+Paras,Bug,Grass
+Parasect,Bug,Grass
+Venonat,Bug,
+Venomoth,Bug,
+Diglett,Field,
+Dugtrio,Field,
+Meowth,Field,
+Persian,Field,
+Psyduck,Water 1,Field
+Golduck,Water 1,Field
+Mankey,Field,
+Primeape,Field,
+Growlithe,Field,
+Arcanine,Field,
+Poliwag,Water 1,
+Poliwhirl,Water 1,
+Poliwrath,Water 1,
+Abra,Human-Like,
+Kadabra,Human-Like,
+Alakazam,Human-Like,
+Machop,Human-Like,
+Machoke,Human-Like,
+Machamp,Human-Like,
+Bellsprout,Grass,
+Weepinbell,Grass,
+Victreebel,Grass,
+Tentacool,Water 3,
+Tentacruel,Water 3,
+Geodude,Mineral,
+Graveler,Mineral,
+Golem,Mineral,
+Ponyta,Field,
+Rapidash,Field,
+Slowpoke,Monster,Water 1
+Slowbro,Monster,Water 1
+Magnemite,Mineral,
+Magneton,Mineral,
+Farfetch'd,Flying,Field
+Doduo,Flying,
+Dodrio,Flying,
+Seel,Water 1,Field
+Dewgong,Water 1,Field
+Grimer,Amorphous,
+Muk,Amorphous,
+Shellder,Water 3,
+Cloyster,Water 3,
+Gastly,Amorphous,
+Haunter,Amorphous,
+Gengar,Amorphous,
+Onix,Mineral,
+Drowzee,Human-Like,
+Hypno,Human-Like,
+Krabby,Water 3,
+Kingler,Water 3,
+Voltorb,Mineral,
+Electrode,Mineral,
+Exeggcute,Grass,
+Exeggutor,Grass,
+Cubone,Monster,
+Marowak,Monster,
+Hitmonlee,Human-Like,
+Hitmonchan,Human-Like,
+Lickitung,Monster,
+Koffing,Amorphous,
+Weezing,Amorphous,
+Rhyhorn,Monster,Field
+Rhydon,Monster,Field
+Chansey,Fairy,
+Tangela,Grass,
+Kangaskhan,Monster,
+Horsea,Water 1,Dragon
+Seadra,Water 1,Dragon
+Goldeen,Water 2,
+Seaking,Water 2,
+Staryu,Water 3,
+Starmie,Water 3,
+Mr. Mime,Human-Like,
+Scyther,Bug,
+Jynx,Human-Like,
+Electabuzz,Human-Like,
+Magmar,Human-Like,
+Pinsir,Bug,
+Tauros,Field,
+Magikarp,Water 2,Dragon
+Gyarados,Water 2,Dragon
+Lapras,Monster,Water 1
+Ditto,Ditto,
+Eevee,Field,
+Vaporeon,Field,
+Jolteon,Field,
+Flareon,Field,
+Porygon,Mineral,
+Omanyte,Water 1,Water 3
+Omastar,Water 1,Water 3
+Kabuto,Water 1,Water 3
+Kabutops,Water 1,Water 3
+Aerodactyl,Flying,
+Snorlax,Monster,
+Articuno,Undiscovered,
+Zapdos,Undiscovered,
+Moltres,Undiscovered,
+Dratini,Water 1,Dragon
+Dragonair,Water 1,Dragon
+Dragonite,Water 1,Dragon
+Mewtwo,Undiscovered,
+Mew,Undiscovered,
+Chikorita,Monster,Grass
+Bayleef,Monster,Grass
+Meganium,Monster,Grass
+Cyndaquil,Field,
+Quilava,Field,
+Typhlosion,Field,
+Totodile,Monster,Water 1
+Croconaw,Monster,Water 1
+Feraligatr,Monster,Water 1
+Sentret,Field,
+Furret,Field,
+Hoothoot,Flying,
+Noctowl,Flying,
+Ledyba,Bug,
+Ledian,Bug,
+Spinarak,Bug,
+Ariados,Bug,
+Crobat,Flying,
+Chinchou,Water 2,
+Lanturn,Water 2,
+Pichu,Undiscovered,
+Cleffa,Undiscovered,
+Igglybuff,Undiscovered,
+Togepi,Undiscovered,
+Togetic,Flying,Fairy
+Natu,Flying,
+Xatu,Flying,
+Mareep,Monster,Field
+Flaaffy,Monster,Field
+Ampharos,Monster,Field
+Bellossom,Grass,
+Marill,Water 1,Fairy
+Azumarill,Water 1,Fairy
+Sudowoodo,Mineral,
+Politoed,Water 1,
+Hoppip,Fairy,Grass
+Skiploom,Fairy,Grass
+Jumpluff,Fairy,Grass
+Aipom,Field,
+Sunkern,Grass,
+Sunflora,Grass,
+Yanma,Bug,
+Wooper,Water 1,Field
+Quagsire,Water 1,Field
+Espeon,Field,
+Umbreon,Field,
+Murkrow,Flying,
+Slowking,Monster,Water 1
+Misdreavus,Amorphous,
+Unown,Undiscovered,
+Wobbuffet,Amorphous,
+Girafarig,Field,
+Pineco,Bug,
+Forretress,Bug,
+Dunsparce,Field,
+Gligar,Bug,
+Steelix,Mineral,
+Snubbull,Field,Fairy
+Granbull,Field,Fairy
+Qwilfish,Water 2,
+Scizor,Bug,
+Shuckle,Bug,
+Heracross,Bug,
+Sneasel,Field,
+Teddiursa,Field,
+Ursaring,Field,
+Slugma,Amorphous,
+Magcargo,Amorphous,
+Swinub,Field,
+Piloswine,Field,
+Corsola,Water 1,Water 3
+Remoraid,Water 1,Water 2
+Octillery,Water 1,Water 2
+Delibird,Water 1,Field
+Mantine,Water 1,
+Skarmory,Flying,
+Houndour,Field,
+Houndoom,Field,
+Kingdra,Water 1,Dragon
+Phanpy,Field,
+Donphan,Field,
+Porygon2,Mineral,
+Stantler,Field,
+Smeargle,Field,
+Tyrogue,Undiscovered,
+Hitmontop,Human-Like,
+Smoochum,Undiscovered,
+Elekid,Undiscovered,
+Magby,Undiscovered,
+Miltank,Field,
+Blissey,Fairy,
+Raikou,Undiscovered,
+Entei,Undiscovered,
+Suicune,Undiscovered,
+Larvitar,Monster,
+Pupitar,Monster,
+Tyranitar,Monster,
+Lugia,Undiscovered,
+Ho-Oh,Undiscovered,
+Celebi,Undiscovered,
+Treecko,Monster,Dragon
+Grovyle,Monster,Dragon
+Sceptile,Monster,Dragon
+Torchic,Field,
+Combusken,Field,
+Blaziken,Field,
+Mudkip,Monster,Water 1
+Marshtomp,Monster,Water 1
+Swampert,Monster,Water 1
+Poochyena,Field,
+Mightyena,Field,
+Zigzagoon,Field,
+Linoone,Field,
+Wurmple,Bug,
+Silcoon,Bug,
+Beautifly,Bug,
+Cascoon,Bug,
+Dustox,Bug,
+Lotad,Water 1,Grass
+Lombre,Water 1,Grass
+Ludicolo,Water 1,Grass
+Seedot,Field,Grass
+Nuzleaf,Field,Grass
+Shiftry,Field,Grass
+Taillow,Flying,
+Swellow,Flying,
+Wingull,Water 1,Flying
+Pelipper,Water 1,Flying
+Ralts,Amorphous,
+Kirlia,Amorphous,
+Gardevoir,Amorphous,
+Surskit,Water 1,Bug
+Masquerain,Water 1,Bug
+Shroomish,Fairy,Grass
+Breloom,Fairy,Grass
+Slakoth,Field,
+Vigoroth,Field,
+Slaking,Field,
+Nincada,Bug,
+Ninjask,Bug,
+Shedinja,Mineral,
+Whismur,Monster,Field
+Loudred,Monster,Field
+Exploud,Monster,Field
+Makuhita,Human-Like,
+Hariyama,Human-Like,
+Azurill,Undiscovered,
+Nosepass,Mineral,
+Skitty,Field,Fairy
+Delcatty,Field,Fairy
+Sableye,Human-Like,
+Mawile,Field,Fairy
+Aron,Monster,
+Lairon,Monster,
+Aggron,Monster,
+Meditite,Human-Like,
+Medicham,Human-Like,
+Electrike,Field,
+Manectric,Field,
+Plusle,Fairy,
+Minun,Fairy,
+Volbeat,Bug,Human-Like
+Illumise,Bug,Human-Like
+Roselia,Fairy,Grass
+Gulpin,Amorphous,
+Swalot,Amorphous,
+Carvanha,Water 2,
+Sharpedo,Water 2,
+Wailmer,Field,Water 2
+Wailord,Field,Water 2
+Numel,Field,
+Camerupt,Field,
+Torkoal,Field,
+Spoink,Field,
+Grumpig,Field,
+Spinda,Field,Human-Like
+Trapinch,Bug,
+Vibrava,Bug,
+Flygon,Bug,
+Cacnea,Grass,Human-Like
+Cacturne,Grass,Human-Like
+Swablu,Flying,Dragon
+Altaria,Flying,Dragon
+Zangoose,Field,
+Seviper,Field,Dragon
+Lunatone,Mineral,
+Solrock,Mineral,
+Barboach,Water 2,
+Whiscash,Water 2,
+Corphish,Water 1,Water 3
+Crawdaunt,Water 1,Water 3
+Baltoy,Mineral,
+Claydol,Mineral,
+Lileep,Water 3,
+Cradily,Water 3,
+Anorith,Water 3,
+Armaldo,Water 3,
+Feebas,Water 1,Dragon
+Milotic,Water 1,Dragon
+Castform,Fairy,Amorphous
+Kecleon,Field,
+Shuppet,Amorphous,
+Banette,Amorphous,
+Duskull,Amorphous,
+Dusclops,Amorphous,
+Tropius,Monster,Grass
+Chimecho,Amorphous,
+Absol,Field,
+Wynaut,Undiscovered,
+Snorunt,Fairy,Mineral
+Glalie,Fairy,Mineral
+Spheal,Water 1,Field
+Sealeo,Water 1,Field
+Walrein,Water 1,Field
+Clamperl,Water 1,
+Huntail,Water 1,
+Gorebyss,Water 1,
+Relicanth,Water 1,Water 2
+Luvdisc,Water 2,
+Bagon,Dragon,
+Shelgon,Dragon,
+Salamence,Dragon,
+Beldum,Mineral,
+Metang,Mineral,
+Metagross,Mineral,
+Regirock,Undiscovered,
+Regice,Undiscovered,
+Registeel,Undiscovered,
+Latias,Undiscovered,
+Latios,Undiscovered,
+Kyogre,Undiscovered,
+Groudon,Undiscovered,
+Rayquaza,Undiscovered,
+Jirachi,Undiscovered,
+Deoxys,Undiscovered,
+Turtwig,Monster,Grass
+Grotle,Monster,Grass
+Torterra,Monster,Grass
+Chimchar,Field,Human-Like
+Monferno,Field,Human-Like
+Infernape,Field,Human-Like
+Piplup,Water 1,Field
+Prinplup,Water 1,Field
+Empoleon,Water 1,Field
+Starly,Flying,
+Staravia,Flying,
+Staraptor,Flying,
+Bidoof,Water 1,Field
+Bibarel,Water 1,Field
+Kricketot,Bug,
+Kricketune,Bug,
+Shinx,Field,
+Luxio,Field,
+Luxray,Field,
+Budew,Undiscovered,
+Roserade,Fairy,Grass
+Cranidos,Monster,
+Rampardos,Monster,
+Shieldon,Monster,
+Bastiodon,Monster,
+Burmy,Bug,
+Wormadam,Bug,
+Mothim,Bug,
+Combee,Bug,
+Vespiquen,Bug,
+Pachirisu,Field,Fairy
+Buizel,Water 1,Field
+Floatzel,Water 1,Field
+Cherubi,Fairy,Grass
+Cherrim,Fairy,Grass
+Shellos,Water 1,Amorphous
+Gastrodon,Water 1,Amorphous
+Ambipom,Field,
+Drifloon,Amorphous,
+Drifblim,Amorphous,
+Buneary,Field,Human-Like
+Lopunny,Field,Human-Like
+Mismagius,Amorphous,
+Honchkrow,Flying,
+Glameow,Field,
+Purugly,Field,
+Chingling,Undiscovered,
+Stunky,Field,
+Skuntank,Field,
+Bronzor,Mineral,
+Bronzong,Mineral,
+Bonsly,Undiscovered,
+Mime Jr.,Undiscovered,
+Happiny,Undiscovered,
+Chatot,Flying,
+Spiritomb,Amorphous,
+Gible,Monster,Dragon
+Gabite,Monster,Dragon
+Garchomp,Monster,Dragon
+Munchlax,Undiscovered,
+Riolu,Undiscovered,
+Lucario,Field,Human-Like
+Hippopotas,Field,
+Hippowdon,Field,
+Skorupi,Bug,Water 3
+Drapion,Bug,Water 3
+Croagunk,Human-Like,
+Toxicroak,Human-Like,
+Carnivine,Grass,
+Finneon,Water 2,
+Lumineon,Water 2,
+Mantyke,Undiscovered,
+Snover,Monster,Grass
+Abomasnow,Monster,Grass
+Weavile,Field,
+Magnezone,Mineral,
+Lickilicky,Monster,
+Rhyperior,Monster,Field
+Tangrowth,Grass,
+Electivire,Human-Like,
+Magmortar,Human-Like,
+Togekiss,Flying,Fairy
+Yanmega,Bug,
+Leafeon,Field,
+Glaceon,Field,
+Gliscor,Bug,
+Mamoswine,Field,
+Porygon-Z,Mineral,
+Gallade,Amorphous,
+Probopass,Mineral,
+Dusknoir,Amorphous,
+Froslass,Fairy,Mineral
+Rotom,Amorphous,
+Uxie,Undiscovered,
+Mesprit,Undiscovered,
+Azelf,Undiscovered,
+Dialga,Undiscovered,
+Palkia,Undiscovered,
+Heatran,Undiscovered,
+Regigigas,Undiscovered,
+Giratina,Undiscovered,
+Cresselia,Undiscovered,
+Phione,Water 1,Fairy
+Manaphy,Water 1,Fairy
+Darkrai,Undiscovered,
+Shaymin,Undiscovered,
+Arceus,Undiscovered,
+Victini,Undiscovered,
+Snivy,Field,Grass
+Servine,Field,Grass
+Serperior,Field,Grass
+Tepig,Field,
+Pignite,Field,
+Emboar,Field,
+Oshawott,Field,
+Dewott,Field,
+Samurott,Field,
+Patrat,Field,
+Watchog,Field,
+Lillipup,Field,
+Herdier,Field,
+Stoutland,Field,
+Purrloin,Field,
+Liepard,Field,
+Pansage,Field,
+Simisage,Field,
+Pansear,Field,
+Simisear,Field,
+Panpour,Field,
+Simipour,Field,
+Munna,Field,
+Musharna,Field,
+Pidove,Flying,
+Tranquill,Flying,
+Unfezant,Flying,
+Blitzle,Field,
+Zebstrika,Field,
+Roggenrola,Mineral,
+Boldore,Mineral,
+Gigalith,Mineral,
+Woobat,Field,Flying
+Swoobat,Field,Flying
+Drilbur,Field,
+Excadrill,Field,
+Audino,Fairy,
+Timburr,Human-Like,
+Gurdurr,Human-Like,
+Conkeldurr,Human-Like,
+Tympole,Water 1,
+Palpitoad,Water 1,
+Seismitoad,Water 1,
+Throh,Human-Like,
+Sawk,Human-Like,
+Sewaddle,Bug,
+Swadloon,Bug,
+Leavanny,Bug,
+Venipede,Bug,
+Whirlipede,Bug,
+Scolipede,Bug,
+Cottonee,Grass,Fairy
+Whimsicott,Grass,Fairy
+Petilil,Grass,
+Lilligant,Grass,
+Basculin,Water 2,
+Sandile,Field,
+Krokorok,Field,
+Krookodile,Field,
+Darumaka,Field,
+Darmanitan,Field,
+Maractus,Grass,
+Dwebble,Bug,Mineral
+Crustle,Bug,Mineral
+Scraggy,Field,Dragon
+Scrafty,Field,Dragon
+Sigilyph,Flying,
+Yamask,Mineral,Amorphous
+Cofagrigus,Mineral,Amorphous
+Tirtouga,Water 1,Water 3
+Carracosta,Water 1,Water 3
+Archen,Flying,Water 3
+Archeops,Flying,Water 3
+Trubbish,Mineral,
+Garbodor,Mineral,
+Zorua,Field,
+Zoroark,Field,
+Minccino,Field,
+Cinccino,Field,
+Gothita,Human-Like,
+Gothorita,Human-Like,
+Gothitelle,Human-Like,
+Solosis,Amorphous,
+Duosion,Amorphous,
+Reuniclus,Amorphous,
+Ducklett,Water 1,Flying
+Swanna,Water 1,Flying
+Vanillite,Mineral,
+Vanillish,Mineral,
+Vanilluxe,Mineral,
+Deerling,Field,
+Sawsbuck,Field,
+Emolga,Field,
+Karrablast,Bug,
+Escavalier,Bug,
+Foongus,Grass,
+Amoonguss,Grass,
+Frillish,Amorphous,
+Jellicent,Amorphous,
+Alomomola,Water 1,Water 2
+Joltik,Bug,
+Galvantula,Bug,
+Ferroseed,Grass,Mineral
+Ferrothorn,Grass,Mineral
+Klink,Mineral,
+Klang,Mineral,
+Klinklang,Mineral,
+Tynamo,Amorphous,
+Eelektrik,Amorphous,
+Eelektross,Amorphous,
+Elgyem,Human-Like,
+Beheeyem,Human-Like,
+Litwick,Amorphous,
+Lampent,Amorphous,
+Chandelure,Amorphous,
+Axew,Monster,Dragon
+Fraxure,Monster,Dragon
+Haxorus,Monster,Dragon
+Cubchoo,Field,
+Beartic,Field,
+Cryogonal,Mineral,
+Shelmet,Bug,
+Accelgor,Bug,
+Stunfisk,Water 1,Amorphous
+Mienfoo,Field,Human-Like
+Mienshao,Field,Human-Like
+Druddigon,Dragon,Monster
+Golett,Mineral,
+Golurk,Mineral,
+Pawniard,Human-Like,
+Bisharp,Human-Like,
+Bouffalant,Field,
+Rufflet,Flying,
+Braviary,Flying,
+Vullaby,Flying,
+Mandibuzz,Flying,
+Heatmor,Field,
+Durant,Bug,
+Deino,Dragon,
+Zweilous,Dragon,
+Hydreigon,Dragon,
+Larvesta,Bug,
+Volcarona,Bug,
+Cobalion,Undiscovered,
+Terrakion,Undiscovered,
+Virizion,Undiscovered,
+Tornadus,Undiscovered,
+Thundurus,Undiscovered,
+Reshiram,Undiscovered,
+Zekrom,Undiscovered,
+Landorus,Undiscovered,
+Kyurem,Undiscovered,
+Keldeo,Undiscovered,
+Meloetta,Undiscovered,
+Genesect,Undiscovered,
+Chespin,Field,
+Quilladin,Field,
+Chesnaught,Field,
+Fennekin,Field,
+Braixen,Field,
+Delphox,Field,
+Froakie,Water 1,
+Frogadier,Water 1,
+Greninja,Water 1,
+Bunnelby,Field,
+Diggersby,Field,
+Fletchling,Flying,
+Fletchinder,Flying,
+Talonflame,Flying,
+Scatterbug,Bug,
+Spewpa,Bug,
+Vivillon,Bug,
+Litleo,Field,
+Pyroar,Field,
+Flabébé,Fairy,
+Floette,Fairy,
+Florges,Fairy,
+Skiddo,Field,
+Gogoat,Field,
+Pancham,Field,Human-Like
+Pangoro,Field,Human-Like
+Furfrou,Field,
+Espurr,Field,
+Meowstic,Field,
+Honedge,Mineral,
+Doublade,Mineral,
+Aegislash,Mineral,
+Spritzee,Fairy,
+Aromatisse,Fairy,
+Swirlix,Fairy,
+Slurpuff,Fairy,
+Inkay,Water 1,Water 2
+Malamar,Water 1,Water 2
+Binacle,Water 3,
+Barbaracle,Water 3,
+Skrelp,Water 1,Dragon
+Dragalge,Water 1,Dragon
+Clauncher,Water 1,Water 3
+Clawitzer,Water 1,Water 3
+Helioptile,Monster,Dragon
+Heliolisk,Monster,Dragon
+Tyrunt,Monster,Dragon
+Tyrantrum,Monster,Dragon
+Amaura,Monster,
+Aurorus,Monster,
+Sylveon,Field,
+Hawlucha,Human-Like,
+Dedenne,Field,Fairy
+Carbink,Fairy,Mineral
+Goomy,Dragon,
+Sliggoo,Dragon,
+Goodra,Dragon,
+Klefki,Mineral,
+Phantump,Grass,Amorphous
+Trevenant,Grass,Amorphous
+Pumpkaboo,Amorphous,
+Gourgeist,Amorphous,
+Bergmite,Monster,
+Avalugg,Monster,
+Noibat,Flying,
+Noivern,Flying,
+Xerneas,Undiscovered,
+Yveltal,Undiscovered,
+Zygarde,Undiscovered,
+Diancie,Undiscovered,
+Hoopa,Undiscovered,
+Volcanion,Undiscovered,
+Rowlet,Flying,
+Dartrix,Flying,
+Decidueye,Flying,
+Litten,Field,
+Torracat,Field,
+Incineroar,Field,
+Popplio,Water 1,Field
+Brionne,Water 1,Field
+Primarina,Water 1,Field
+Pikipek,Flying,
+Trumbeak,Flying,
+Toucannon,Flying,
+Yungoos,Field,
+Gumshoos,Field,
+Grubbin,Bug,
+Charjabug,Bug,
+Vikavolt,Bug,
+Crabrawler,Water 3,
+Crabominable,Water 3,
+Oricorio,Flying,
+Cutiefly,Bug,Fairy
+Ribombee,Bug,Fairy
+Rockruff,Field,
+Lycanroc,Field,
+Wishiwashi,Water 2,
+Mareanie,Water 1,
+Toxapex,Water 1,
+Mudbray,Field,
+Mudsdale,Field,
+Dewpider,Water 1,Bug
+Araquanid,Water 1,Bug
+Fomantis,Grass,
+Lurantis,Grass,
+Morelull,Grass,
+Shiinotic,Grass,
+Salandit,Monster,Dragon
+Salazzle,Monster,Dragon
+Stufful,Field,
+Bewear,Field,
+Bounsweet,Grass,
+Steenee,Grass,
+Tsareena,Grass,
+Comfey,Grass,
+Oranguru,Field,
+Passimian,Field,
+Wimpod,Bug,Water 3
+Golisopod,Bug,Water 3
+Sandygast,Amorphous,
+Palossand,Amorphous,
+Pyukumuku,Water 1,
+Type: Null,Undiscovered,
+Silvally,Undiscovered,
+Minior,Mineral,
+Komala,Field,
+Turtonator,Monster,Dragon
+Togedemaru,Field,Fairy
+Mimikyu,Amorphous,
+Bruxish,Water 2,
+Drampa,Monster,Dragon
+Dhelmise,Mineral,
+Jangmo-o,Dragon,
+Hakamo-o,Dragon,
+Kommo-o,Dragon,
+Tapu Koko,Undiscovered,
+Tapu Lele,Undiscovered,
+Tapu Bulu,Undiscovered,
+Tapu Fini,Undiscovered,
+Cosmog,Undiscovered,
+Cosmoem,Undiscovered,
+Solgaleo,Undiscovered,
+Lunala,Undiscovered,
+Nihilego,Undiscovered,
+Buzzwole,Undiscovered,
+Pheromosa,Undiscovered,
+Xurkitree,Undiscovered,
+Celesteela,Undiscovered,
+Kartana,Undiscovered,
+Guzzlord,Undiscovered,
+Necrozma,Undiscovered,
+Magearna,Undiscovered,
+Marshadow,Undiscovered,
+Poipole,Undiscovered,
+Naganadel,Undiscovered,
+Stakataka,Undiscovered,
+Blacephalon,Undiscovered,

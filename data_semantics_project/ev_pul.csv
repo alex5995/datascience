@@ -1,0 +1,411 @@
+pokemon;tipo_ev;evoluzione
+Bulbasaur;Level 16   ;Ivysaur
+Charmander;Level 16   ;Charmeleon
+Squirtle;Level 16   ;Wartortle
+Caterpie;Level 7   ;Metapod
+Weedle;Level 7   ;Kakuna
+Pidgey;Level 18   ;Pidgeotto
+Rattata;Level 20   ;Raticate
+Rattata;Level 20 (night)   ;Raticate
+Spearow;Level 20   ;Fearow
+Ekans;Level 22   ;Arbok
+Pichu;Friendship   ;Pikachu
+Sandshrew;Level 22   ;Sandslash
+Sandshrew;Ice Stone   ;Sandslash
+Nidoran?;Level 16   ;Nidorina
+Nidoran;Level 16   ;Nidorino
+Cleffa;Friendship   ;Clefairy
+Vulpix;Fire Stone   ;Ninetales
+Vulpix;Ice Stone   ;Ninetales
+Igglybuff;Friendship   ;Jigglypuff
+Zubat;Level 22   ;Golbat
+Oddish;Level 21   ;Gloom
+Paras;Level 24   ;Parasect
+Venonat;Level 31   ;Venomoth
+Diglett;Level 26   ;Dugtrio
+Diglett;Level 26   ;Dugtrio
+Meowth;Level 28   ;Persian
+Meowth;Friendship   ;Persian
+Psyduck;Level 33   ;Golduck
+Mankey;Level 28   ;Primeape
+Growlithe;Fire Stone   ;Arcanine
+Poliwag;Level 25   ;Poliwhirl
+Abra;Level 16   ;Kadabra
+Machop;Level 28   ;Machoke
+Bellsprout;Level 21   ;Weepinbell
+Tentacool;Level 30   ;Tentacruel
+Geodude;Level 25   ;Graveler
+Geodude;Level 25   ;Graveler
+Ponyta;Level 40   ;Rapidash
+Slowpoke;Level 37   ;Slowbro
+Slowpoke;Trade holding King's Rock   ;Slowking
+Magnemite;Level 30   ;Magneton
+Doduo;Level 31   ;Dodrio
+Seel;Level 34   ;Dewgong
+Grimer;Level 38   ;Muk
+Grimer;Level 38   ;Muk
+Shellder;Water Stone   ;Cloyster
+Gastly;Level 25   ;Haunter
+Onix;Trade holding Metal Coat   ;Steelix
+Drowzee;Level 26   ;Hypno
+Krabby;Level 28   ;Kingler
+Voltorb;Level 30   ;Electrode
+Exeggcute;Leaf Stone   ;Exeggutor
+Exeggcute;Leaf Stone   ;Exeggutor
+Cubone;Level 28   ;Marowak
+Cubone;Level 28 (night)   ;Marowak
+Tyrogue;Level 20 (Attack > Defense)   ;Hitmonlee
+Tyrogue;Level 20 (Attack < Defense)   ;Hitmonchan
+Tyrogue;Level 20 (Attack = Defense)   ;Hitmontop
+Lickitung;Level up knowing Rollout   ;Lickilicky
+Koffing;Level 35   ;Weezing
+Rhyhorn;Level 42   ;Rhydon
+Happiny;Level up holding Oval Stone (day)   ;Chansey
+Tangela;Level up knowing Ancient Power   ;Tangrowth
+Horsea;Level 32   ;Seadra
+Goldeen;Level 33   ;Seaking
+Staryu;Water Stone   ;Starmie
+Mime Jr.;Level up knowing Mimic   ;Mr. Mime
+Scyther;Trade holding Metal Coat   ;Scizor
+Smoochum;Level 30   ;Jynx
+Elekid;Level 30   ;Electabuzz
+Magby;Level 30   ;Magmar
+Magikarp;Level 20   ;Gyarados
+Eevee;Water Stone   ;Vaporeon
+Eevee;Thunder Stone   ;Jolteon
+Eevee;Fire Stone   ;Flareon
+Eevee;Friendship (day);Espeon
+Eevee;Level up with Sun ShardXD   ;Espeon
+Eevee;Friendship (night);Umbreon
+Eevee;Level up with Moon ShardXD  ;Umbreon
+Eevee;Level up near Moss Rock   ;Leafeon
+Eevee;Level up near Ice Rock   ;Glaceon
+Eevee;Level up with two hearts of Affection;Sylveon
+Eevee;and know a Fairy-type move   ;Sylveon
+Porygon;Trade holding Up-Grade   ;Porygon2
+Omanyte;Level 40   ;Omastar
+Kabuto;Level 40   ;Kabutops
+Munchlax;Friendship   ;Snorlax
+Dratini;Level 30   ;Dragonair
+Chikorita;Level 16   ;Bayleef
+Cyndaquil;Level 14   ;Quilava
+Totodile;Level 18   ;Croconaw
+Sentret;Level 15   ;Furret
+Hoothoot;Level 20   ;Noctowl
+Ledyba;Level 18   ;Ledian
+Spinarak;Level 22   ;Ariados
+Chinchou;Level 27   ;Lanturn
+Togepi;Friendship   ;Togetic
+Natu;Level 25   ;Xatu
+Mareep;Level 15   ;Flaaffy
+Azurill;Friendship   ;Marill
+Bonsly;Level up knowing Mimic   ;Sudowoodo
+Hoppip;Level 18   ;Skiploom
+Aipom;Level up knowing Double Hit   ;Ambipom
+Sunkern;Sun Stone   ;Sunflora
+Yanma;Level up knowing Ancient Power   ;Yanmega
+Wooper;Level 20   ;Quagsire
+Murkrow;Dusk Stone   ;Honchkrow
+Misdreavus;Dusk Stone   ;Mismagius
+Wynaut;Level 15   ;Wobbuffet
+Pineco;Level 31   ;Forretress
+Gligar;Level up holding Razor Fang at night   ;Gliscor
+Snubbull;Level 23   ;Granbull
+Sneasel;Level up holding Razor Claw at night   ;Weavile
+Teddiursa;Level 30   ;Ursaring
+Slugma;Level 38   ;Magcargo
+Swinub;Level 33   ;Piloswine
+Remoraid;Level 25   ;Octillery
+Mantyke;Level up with Remoraid in party   ;Mantine
+Houndour;Level 24   ;Houndoom
+Phanpy;Level 25   ;Donphan
+Larvitar;Level 30   ;Pupitar
+Treecko;Level 16   ;Grovyle
+Torchic;Level 16   ;Combusken
+Mudkip;Level 16   ;Marshtomp
+Poochyena;Level 18   ;Mightyena
+Zigzagoon;Level 20   ;Linoone
+Wurmple;Level 7   ;Silcoon
+Wurmple;Level 7   ;Cascoon
+Lotad;Level 14   ;Lombre
+Seedot;Level 14   ;Nuzleaf
+Taillow;Level 22   ;Swellow
+Wingull;Level 25   ;Pelipper
+Ralts;Level 20   ;Kirlia
+Surskit;Level 22   ;Masquerain
+Shroomish;Level 23   ;Breloom
+Slakoth;Level 18   ;Vigoroth
+Nincada;Level 20   ;Ninjask
+Nincada;Free space;Shedinja
+Nincada;Additional Poké Ball   ;Shedinja
+Whismur;Level 20   ;Loudred
+Makuhita;Level 24   ;Hariyama
+Nosepass;Level up in a special magnetic field   ;Probopass
+Skitty;Moon Stone   ;Delcatty
+Aron;Level 32   ;Lairon
+Meditite;Level 37   ;Medicham
+Electrike;Level 26   ;Manectric
+Budew;Friendship (day)   ;Roselia
+Gulpin;Level 26   ;Swalot
+Carvanha;Level 30   ;Sharpedo
+Wailmer;Level 40   ;Wailord
+Numel;Level 33   ;Camerupt
+Spoink;Level 32   ;Grumpig
+Trapinch;Level 35   ;Vibrava
+Cacnea;Level 32   ;Cacturne
+Swablu;Level 35   ;Altaria
+Barboach;Level 30   ;Whiscash
+Corphish;Level 30   ;Crawdaunt
+Baltoy;Level 36   ;Claydol
+Lileep;Level 40   ;Cradily
+Anorith;Level 40   ;Armaldo
+Feebas;Level up with maximum Beauty;Milotic
+Feebas;Trade holding Prism Scale   ;Milotic
+Shuppet;Level 37   ;Banette
+Duskull;Level 37   ;Dusclops
+Chingling;Friendship (night)   ;Chimecho
+Snorunt;Level 42   ;Glalie
+Snorunt;Dawn Stone (female)   ;Froslass
+Spheal;Level 32   ;Sealeo
+Clamperl;Trade holding Deep Sea Tooth   ;Huntail
+Clamperl;Trade holding Deep Sea Scale   ;Gorebyss
+Bagon;Level 30   ;Shelgon
+Beldum;Level 20   ;Metang
+Turtwig;Level 18   ;Grotle
+Chimchar;Level 14   ;Monferno
+Piplup;Level 16   ;Prinplup
+Starly;Level 14   ;Staravia
+Bidoof;Level 15   ;Bibarel
+Kricketot;Level 10   ;Kricketune
+Shinx;Level 15   ;Luxio
+Cranidos;Level 30   ;Rampardos
+Shieldon;Level 30   ;Bastiodon
+Burmy;Level 20 (female, Plant Cloak)   ;Wormadam
+Burmy;Level 20 (female, Sandy Cloak)   ;Wormadam
+Burmy;Level 20 (female, Trash Cloak)   ;Wormadam
+Burmy;Level 20 (male)   ;Mothim
+Combee;Level 21 (female)   ;Vespiquen
+Buizel;Level 26   ;Floatzel
+Cherubi;Level 25   ;Cherrim
+Shellos;Level 30   ;Gastrodon
+Shellos;Level 30   ;Gastrodon
+Drifloon;Level 28   ;Drifblim
+Buneary;Friendship   ;Lopunny
+Glameow;Level 38   ;Purugly
+Stunky;Level 34   ;Skuntank
+Bronzor;Level 33   ;Bronzong
+Gible;Level 24   ;Gabite
+Riolu;Friendship (day)   ;Lucario
+Hippopotas;Level 34   ;Hippowdon
+Skorupi;Level 40   ;Drapion
+Croagunk;Level 37   ;Toxicroak
+Finneon;Level 31   ;Lumineon
+Snover;Level 40   ;Abomasnow
+Snivy;Level 17   ;Servine
+Tepig;Level 17   ;Pignite
+Oshawott;Level 17   ;Dewott
+Patrat;Level 20   ;Watchog
+Lillipup;Level 16   ;Herdier
+Purrloin;Level 20   ;Liepard
+Pansage;Leaf Stone   ;Simisage
+Pansear;Fire Stone   ;Simisear
+Panpour;Water Stone   ;Simipour
+Munna;Moon Stone   ;Musharna
+Pidove;Level 21   ;Tranquill
+Blitzle;Level 27   ;Zebstrika
+Roggenrola;Level 25   ;Boldore
+Woobat;Friendship   ;Swoobat
+Drilbur;Level 31   ;Excadrill
+Timburr;Level 25   ;Gurdurr
+Tympole;Level 25   ;Palpitoad
+Sewaddle;Level 20   ;Swadloon
+Venipede;Level 22   ;Whirlipede
+Cottonee;Sun Stone   ;Whimsicott
+Petilil;Sun Stone   ;Lilligant
+Sandile;Level 29   ;Krokorok
+Darumaka;Level 35   ;Darmanitan
+Dwebble;Level 34   ;Crustle
+Scraggy;Level 39   ;Scrafty
+Yamask;Level 34   ;Cofagrigus
+Tirtouga;Level 37   ;Carracosta
+Archen;Level 37   ;Archeops
+Trubbish;Level 36   ;Garbodor
+Zorua;Level 30   ;Zoroark
+Minccino;Shiny Stone   ;Cinccino
+Gothita;Level 32   ;Gothorita
+Solosis;Level 32   ;Duosion
+Ducklett;Level 35   ;Swanna
+Vanillite;Level 35   ;Vanillish
+Deerling;Level 34   ;Sawsbuck
+Deerling;Level 34   ;Sawsbuck
+Deerling;Level 34   ;Sawsbuck
+Deerling;Level 34   ;Sawsbuck
+Karrablast;Trade for Shelmet   ;Escavalier
+Foongus;Level 39   ;Amoonguss
+Frillish;Level 40   ;Jellicent
+Joltik;Level 36   ;Galvantula
+Ferroseed;Level 40   ;Ferrothorn
+Klink;Level 38   ;Klang
+Tynamo;Level 39   ;Eelektrik
+Elgyem;Level 42   ;Beheeyem
+Litwick;Level 41   ;Lampent
+Axew;Level 38   ;Fraxure
+Cubchoo;Level 37   ;Beartic
+Shelmet;Trade for Karrablast   ;Accelgor
+Mienfoo;Level 50   ;Mienshao
+Golett;Level 43   ;Golurk
+Pawniard;Level 52   ;Bisharp
+Rufflet;Level 54   ;Braviary
+Vullaby;Level 54   ;Mandibuzz
+Deino;Level 50   ;Zweilous
+Larvesta;Level 59   ;Volcarona
+Chespin;Level 16   ;Quilladin
+Fennekin;Level 16   ;Braixen
+Froakie;Level 16   ;Frogadier
+Bunnelby;Level 20   ;Diggersby
+Fletchling;Level 17   ;Fletchinder
+Scatterbug;Level 9   ;Spewpa
+Litleo;Level 35   ;Pyroar
+Flabébé;Level 19   ;Floette
+Skiddo;Level 32   ;Gogoat
+Pancham;Level 32 with Dark-type in party   ;Pangoro
+Espurr;Level 25   ;Meowstic
+Honedge;Level 35   ;Doublade
+Spritzee;Trade holding Sachet   ;Aromatisse
+Swirlix;Trade holding Whipped Dream   ;Slurpuff
+Inkay;Level 30 with 3DS held upside down   ;Malamar
+Binacle;Level 39   ;Barbaracle
+Skrelp;Level 48   ;Dragalge
+Clauncher;Level 37   ;Clawitzer
+Helioptile;Sun Stone   ;Heliolisk
+Tyrunt;Level 39 (day)   ;Tyrantrum
+Amaura;Level 39 (night)   ;Aurorus
+Goomy;Level 40   ;Sliggoo
+Phantump;Trade   ;Trevenant
+Pumpkaboo;Trade   ;Gourgeist
+Bergmite;Level 37   ;Avalugg
+Noibat;Level 48   ;Noivern
+Rowlet;Level 17   ;Dartrix
+Litten;Level 17   ;Torracat
+Popplio;Level 17   ;Brionne
+Pikipek;Level 14   ;Trumbeak
+Yungoos;Level 20 (day)   ;Gumshoos
+Grubbin;Level 20   ;Charjabug
+Crabrawler;Level up at Mount Lanakila   ;Crabominable
+Cutiefly;Level 25   ;Ribombee
+Rockruff;"Level 25 (Pokémon Sun and Ultra Sun; day)   ";Lycanroc
+Rockruff;"Level 25 (Pokémon Moon and Ultra Moon; night)   ";Lycanroc
+Rockruff;Level 25 (between 5:00 and 5:59 PM)   ;Lycanroc
+Mareanie;Level 38   ;Toxapex
+Mudbray;Level 30   ;Mudsdale
+Dewpider;Level 22   ;Araquanid
+Fomantis;Level 34 (day)   ;Lurantis
+Morelull;Level 24   ;Shiinotic
+Salandit;Level 33 (female)   ;Salazzle
+Stufful;Level 27   ;Bewear
+Bounsweet;Level 18   ;Steenee
+Wimpod;Level 30   ;Golisopod
+Sandygast;Level 42   ;Palossand
+Type: Null;Friendship   ;Silvally
+Jangmo-o;Level 35   ;Hakamo-o
+Cosmog;Level 43   ;Cosmoem
+Ivysaur;Level 32   ;Venusaur
+Charmeleon;Level 36   ;Charizard
+Wartortle;Level 36   ;Blastoise
+Metapod;Level 10   ;Butterfree
+Kakuna;Level 10   ;Beedrill
+Pidgeotto;Level 36   ;Pidgeot
+Pikachu;Thunder Stone   ;Raichu
+Pikachu;Thunder Stone   ;Raichu
+Nidorina;Moon Stone   ;Nidoqueen
+Nidorino;Moon Stone   ;Nidoking
+Clefairy;Moon Stone   ;Clefable
+Jigglypuff;Moon Stone   ;Wigglytuff
+Golbat;Friendship   ;Crobat
+Gloom;Leaf Stone   ;Vileplume
+Gloom;Sun Stone   ;Bellossom
+Poliwhirl;Water Stone   ;Poliwrath
+Poliwhirl;Trade holding King's Rock   ;Politoed
+Kadabra;Trade   ;Alakazam
+Machoke;Trade   ;Machamp
+Weepinbell;Leaf Stone   ;Victreebel
+Graveler;Trade   ;Golem
+Graveler;Trade   ;Golem
+Magneton;Level up in a special magnetic field   ;Magnezone
+Haunter;Trade   ;Gengar
+Rhydon;Trade holding Protector   ;Rhyperior
+Chansey;Friendship   ;Blissey
+Seadra;Trade holding Dragon Scale   ;Kingdra
+Electabuzz;Trade holding Electirizer   ;Electivire
+Magmar;Trade holding Magmarizer   ;Magmortar
+Porygon2;Trade holding Dubious Disc   ;Porygon-Z
+Dragonair;Level 55   ;Dragonite
+Bayleef;Level 32   ;Meganium
+Quilava;Level 36   ;Typhlosion
+Croconaw;Level 30   ;Feraligatr
+Togetic;Shiny Stone   ;Togekiss
+Flaaffy;Level 30   ;Ampharos
+Marill;Level 18   ;Azumarill
+Skiploom;Level 27   ;Jumpluff
+Piloswine;Level up knowing Ancient Power   ;Mamoswine
+Pupitar;Level 55   ;Tyranitar
+Grovyle;Level 36   ;Sceptile
+Combusken;Level 36   ;Blaziken
+Marshtomp;Level 36   ;Swampert
+Silcoon;Level 10   ;Beautifly
+Cascoon;Level 10   ;Dustox
+Lombre;Water Stone   ;Ludicolo
+Nuzleaf;Leaf Stone   ;Shiftry
+Kirlia;Level 30   ;Gardevoir
+Kirlia;Dawn Stone (male)   ;Gallade
+Vigoroth;Level 36   ;Slaking
+Loudred;Level 40   ;Exploud
+Lairon;Level 42   ;Aggron
+Roselia;Shiny Stone   ;Roserade
+Vibrava;Level 45   ;Flygon
+Dusclops;Trade holding Reaper Cloth   ;Dusknoir
+Sealeo;Level 44   ;Walrein
+Shelgon;Level 50   ;Salamence
+Metang;Level 45   ;Metagross
+Grotle;Level 32   ;Torterra
+Monferno;Level 36   ;Infernape
+Prinplup;Level 36   ;Empoleon
+Staravia;Level 34   ;Staraptor
+Luxio;Level 30   ;Luxray
+Gabite;Level 48   ;Garchomp
+Servine;Level 36   ;Serperior
+Pignite;Level 36   ;Emboar
+Dewott;Level 36   ;Samurott
+Herdier;Level 32   ;Stoutland
+Tranquill;Level 32   ;Unfezant
+Boldore;Trade   ;Gigalith
+Gurdurr;Trade   ;Conkeldurr
+Palpitoad;Level 36   ;Seismitoad
+Swadloon;Friendship   ;Leavanny
+Whirlipede;Level 30   ;Scolipede
+Krokorok;Level 40   ;Krookodile
+Gothorita;Level 41   ;Gothitelle
+Duosion;Level 41   ;Reuniclus
+Vanillish;Level 47   ;Vanilluxe
+Klang;Level 49   ;Klinklang
+Eelektrik;Thunder Stone   ;Eelektross
+Lampent;Dusk Stone   ;Chandelure
+Fraxure;Level 48   ;Haxorus
+Zweilous;Level 64   ;Hydreigon
+Quilladin;Level 36   ;Chesnaught
+Braixen;Level 36   ;Delphox
+Frogadier;Level 36   ;Greninja
+Fletchinder;Level 35   ;Talonflame
+Spewpa;Level 12   ;Vivillon
+Floette;Shiny Stone   ;Florges
+Doublade;Dusk Stone   ;Aegislash
+Sliggoo;Level 50 in rain or fog   ;Goodra
+Dartrix;Level 34   ;Decidueye
+Torracat;Level 34   ;Incineroar
+Brionne;Level 34   ;Primarina
+Trumbeak;Level 28   ;Toucannon
+Charjabug;Level up in a special magnetic field   ;Vikavolt
+Steenee;Level up knowing Stomp   ;Tsareena
+Hakamo-o;Level 45   ;Kommo-o
+Cosmoem;Level 53 (Pokémon Sun and Ultra Sun)   ;Solgaleo
+Cosmoem;Level 53 (Pokémon Moon and Ultra Moon)   ;Lunala
