@@ -1,0 +1,249 @@
+[
+    {
+        "id": "f761106e.aa97c",
+        "type": "tab",
+        "label": "Home Control",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "dc923ea9.b2ea6",
+        "type": "mqtt in",
+        "z": "f761106e.aa97c",
+        "name": "Temperature",
+        "topic": "Home/Sensor/#",
+        "qos": "0",
+        "broker": "4f6b9331.a2688c",
+        "x": 150,
+        "y": 60,
+        "wires": [
+            [
+                "8e41f57.7c65508"
+            ]
+        ]
+    },
+    {
+        "id": "8e41f57.7c65508",
+        "type": "ui_chart",
+        "z": "f761106e.aa97c",
+        "name": "",
+        "group": "6719bb0f.82b624",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "label": "Home Temperature",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "5",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "useOldStyle": false,
+        "x": 370,
+        "y": 60,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "74672340.ae69dc",
+        "type": "ui_slider",
+        "z": "f761106e.aa97c",
+        "name": "",
+        "label": "Temperature",
+        "tooltip": "",
+        "group": "a34589ab.8ce198",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "outs": "end",
+        "topic": "Home/Control/Temp",
+        "min": "10",
+        "max": "30",
+        "step": "0.5",
+        "x": 150,
+        "y": 200,
+        "wires": [
+            [
+                "37c5f897.562fb8"
+            ]
+        ]
+    },
+    {
+        "id": "37c5f897.562fb8",
+        "type": "mqtt out",
+        "z": "f761106e.aa97c",
+        "name": "Give Control",
+        "topic": "",
+        "qos": "0",
+        "retain": "true",
+        "broker": "4f6b9331.a2688c",
+        "x": 390,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "a6f315ca.fcec68",
+        "type": "ui_button",
+        "z": "f761106e.aa97c",
+        "name": "",
+        "group": "a34589ab.8ce198",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Confirm",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "Confirm",
+        "payloadType": "str",
+        "topic": "Home/Control/Confirm",
+        "x": 140,
+        "y": 320,
+        "wires": [
+            [
+                "37c5f897.562fb8"
+            ]
+        ]
+    },
+    {
+        "id": "6ce6a9fc.333178",
+        "type": "ui_text_input",
+        "z": "f761106e.aa97c",
+        "name": "",
+        "label": "When",
+        "tooltip": "",
+        "group": "a34589ab.8ce198",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "Home/Control/When",
+        "x": 130,
+        "y": 260,
+        "wires": [
+            [
+                "37c5f897.562fb8"
+            ]
+        ]
+    },
+    {
+        "id": "35eb6800.c79248",
+        "type": "ui_gauge",
+        "z": "f761106e.aa97c",
+        "name": "Boiler",
+        "group": "6719bb0f.82b624",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Boiler",
+        "label": "Status",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1",
+        "colors": [
+            "#fd0000",
+            "#e6e600",
+            "#00ff00"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 410,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "fee3df4f.dd97a",
+        "type": "mqtt in",
+        "z": "f761106e.aa97c",
+        "name": "Boiler",
+        "topic": "Home/Control/Boiler",
+        "qos": "2",
+        "broker": "4f6b9331.a2688c",
+        "x": 130,
+        "y": 120,
+        "wires": [
+            [
+                "35eb6800.c79248"
+            ]
+        ]
+    },
+    {
+        "id": "4f6b9331.a2688c",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "My Broker",
+        "broker": "m20.cloudmqtt.com",
+        "port": "00000",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "6719bb0f.82b624",
+        "type": "ui_group",
+        "z": "",
+        "name": "Charts",
+        "tab": "9c832dfa.e8d6d",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "a34589ab.8ce198",
+        "type": "ui_group",
+        "z": "",
+        "name": "Controls",
+        "tab": "9c832dfa.e8d6d",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "9c832dfa.e8d6d",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
