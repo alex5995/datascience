@@ -1,2 +1,2 @@
 # datascience
-school projects
+university projects
