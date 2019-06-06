@@ -645,19 +645,19 @@ x_train = np.array(r.x_train)
 x_test = np.array(r.x_test)
 y_train = np.array(r.y_train)
 y_test = np.array(r.y_test)
-x_train = x_train.reshape(-1,1,24)
-x_test = x_test.reshape(-1,1,24)
+x_train = x_train.reshape(-1,24,1)
+x_test = x_test.reshape(-1,24,1)
 x_val = x_train[round(x_train.shape[0]*2/3):,:,:]
 x_train = x_train[0:round(x_train.shape[0]*2/3),:,:]
 y_val = y_train[round(y_train.shape[0]*2/3):,:]
 y_train = y_train[0:round(y_train.shape[0]*2/3),:]
 look_back = 24
 model = Sequential()
-model.add(LSTM(10, return_sequences=True, input_shape=(1, look_back)))
+model.add(LSTM(10, return_sequences=True, input_shape=(look_back,1)))
 model.add(LSTM(5))
 model.add(Dense(2))
 model.compile(loss='mean_squared_error', optimizer='adam')
-model.fit(x_train, y_train, epochs=10, batch_size=1, verbose=2, validation_data=(x_val,y_val))</code></pre>
+model.fit(x_train, y_train, epochs=10, batch_size=32, verbose=2, validation_data=(x_val,y_val))</code></pre>
 <pre><code>## Train on 1441 samples, validate on 721 samples
 ## Epoch 1/10
 ##  - 15s - loss: 0.1389 - val_loss: 0.0957
