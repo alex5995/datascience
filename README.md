@@ -1,2 +1,2 @@
-# datascience
-university projects
+# Datascience
+University Projects
